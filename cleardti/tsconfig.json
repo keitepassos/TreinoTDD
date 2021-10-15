@@ -1,8 +1,0 @@
-{
-    "compilerOptions": {
-        "outDir":"./dist",
-       // "module":"common.js",
-        "target":"es2019",
-        "allowJs":true
-    }
-  }
